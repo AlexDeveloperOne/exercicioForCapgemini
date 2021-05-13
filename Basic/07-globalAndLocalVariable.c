@@ -1,0 +1,1 @@
+//Global And Local Variable
