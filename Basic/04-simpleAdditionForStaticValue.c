@@ -1,3 +1,4 @@
+//Simple Addition For Static Value
 #include<stdio.h>
 #include<conio.h>
 void main()
